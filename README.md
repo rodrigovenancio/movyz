@@ -20,7 +20,8 @@ A api-key será enviada ao recrutador junto ao link do repositório.
 - Jetpack Compose: layout declarativo em Kotlin
 - Navigation: padrão single-activity 
 - Retrofit: requisições HTTP para a API
-- MVVM & Clean Architeture: Separação de responsabilidades para melhor manutenção, testabilidade e reaproveitamento de código. Salvamento de estado em caso de mudança de configurações como rotação de tela. Melhor gerenciamento de lifecycle e memória.
+- Hilt: injeção de dependências para diminuir o acoplamento de código e melhorar a testabilidade
+- MVVM & Clean Architeture: separação de responsabilidades para melhor manutenção, testabilidade e reaproveitamento de código. Salvamento de estado em caso de mudança de configurações como rotação de tela. Melhor gerenciamento de lifecycle e memória.
 - Coroutines: correta utilização de threads para background tasks
 - Coil: carregamento e cacheamento de imagens da API
 - Version Catalog: melhor controle e versionamento de dependências
