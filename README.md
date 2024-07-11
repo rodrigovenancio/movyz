@@ -1,5 +1,7 @@
 # Movyz
 
+![alt text](https://github.com/rodrigovenancio/movyz/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp?raw=true)
+
 App Android de listagem de filmes usando Jetpack Compose, Coil, Hilt e Retrofit.
 
 
